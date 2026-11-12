@@ -14,7 +14,7 @@ The goal is to demonstrate:
 * Git & GitHub
 
 ## Project Roadmap
-- [ ] Basic setup with a `TicketPool` and `User` threads
+- [x] Basic setup with a `TicketPool` and `User` threads
 - [ ] Simulate race conditions (allowing overselling)
 - [ ] Fix the bug using `synchronized`
 - [ ] Explore `ExecutorService` (Thread Pools) and `AtomicInteger`
